@@ -1,0 +1,25 @@
+.page {
+  margin: 40px 30px;
+  background-color: #EBE8FE;
+} 
+
+.areaChart {
+    padding:5%;
+}
+
+.header {
+  color: #251E55;
+}
+
+.source {
+  color: #251E55;
+}
+
+.instructions {
+  font-size: 20px;
+  color: #352699;
+ }
+
+.yHeader {
+  color: #251E55;
+}
